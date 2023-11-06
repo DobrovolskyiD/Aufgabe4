@@ -2,7 +2,6 @@ public enum Rank {
     TWO("Zwei"), THREE("Drei"), FOUR("Vier"), FIVE("Fünf"), SIX("Sechs"),
     SEVEN("Sieben"), EIGHT("Acht"), NINE("Neun"), TEN("Zehn"), JACK("Bube"),
     QUEEN("Dame"), KING("König"), ACE("Ass");
-
     private String germanName;
 
     Rank(String germanName) {
